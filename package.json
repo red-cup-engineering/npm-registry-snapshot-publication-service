@@ -35,5 +35,9 @@
   },
   "devDependencies": {
     "@red-cup-engineering/jsnode-package-services-section": "workspace:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/npm-registry-snapshot-publication-service.git"
   }
 }
