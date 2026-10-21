@@ -39,5 +39,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/npm-registry-snapshot-publication-service.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
